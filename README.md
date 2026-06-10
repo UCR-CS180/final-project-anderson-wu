@@ -11,7 +11,7 @@ This app is for educational use. It is not a replacement for therapy, emergency 
 - Source code directory: project root and layer folders `interface/`, `engine/`, `storage/`, `services/`, and `models/`
 - Test directory: `tests/`
 - Requirement specification and design document: [`docs/requirements_and_design.md`](docs/requirements_and_design.md)
-- Demo video: link
+- Demo video: [link](https://youtu.be/L5or6qVHFm8)
 - Setup and execution instructions: see the Setup section below
 
 ## Architecture
