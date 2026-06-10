@@ -1,0 +1,14 @@
+.env
+venv/
+.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest_cache/*
+.pytest_tmp/
+.pytest_tmp/*
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/relationship_summarizer.db
